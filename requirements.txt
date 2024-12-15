@@ -10,11 +10,10 @@ huggingface_hub
 # Document Processing
 PyPDF2
 ebooklib
-textract
+pdfminer.six
 python-magic
-
-# Calibre Integration (optional)
-calibre
+langchain
+beautifulsoup4
 
 # API and Server
 fastapi
@@ -30,6 +29,10 @@ scikit-learn
 faiss-cpu
 sentence-transformers
 
+
 # Utilities
 tqdm
 python-dotenv
+psycopg2-binary
+streamlit
+ollama
