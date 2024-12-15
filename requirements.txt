@@ -1,0 +1,35 @@
+# Core ML/DL libraries
+torch
+torchvision
+torchaudio
+transformers
+datasets
+accelerate
+huggingface_hub
+
+# Document Processing
+PyPDF2
+ebooklib
+textract
+python-magic
+
+# Calibre Integration (optional)
+calibre
+
+# API and Server
+fastapi
+uvicorn
+requests
+
+# Data Processing
+pandas
+numpy
+scikit-learn
+
+# Vector Database (for RAG implementation)
+faiss-cpu
+sentence-transformers
+
+# Utilities
+tqdm
+python-dotenv
